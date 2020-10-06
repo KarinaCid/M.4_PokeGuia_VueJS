@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="app" row>
     <img alt="Pokemon logo" src="./assets/Pokemon.png">
     <PokeApi msg="Bienvenido a tu Guía Pokemon"/>
   </div>
